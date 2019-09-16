@@ -24,6 +24,6 @@ body {
   font-size: 14px;
 }
 
-.error {
-  color: #ff0000;
+#error1,#error2,#error3{
+  color: red;
 }
